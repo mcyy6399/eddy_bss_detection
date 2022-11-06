@@ -1,3 +1,8 @@
+# Publication
+Code in paper:
+> Zhang, Y.; Liu, N.; Zhang, Z.; Liu, M.; Fan, L.; Li, Y.; Yang, L.; Lin, L.; Chen, H. Detection of Bering Sea Slope Mesoscale Eddies Derived from Satellite Altimetry Data by an Attention Network. Remote Sensing 2022, 14, 4974, doi:10.3390/rs14194974.
+
+
 # eddy_bss_detection
 Detection of Bering Sea Slope Mesoscale Eddies Derived from Satellite Altimetry Data by the Attention Network  
 
